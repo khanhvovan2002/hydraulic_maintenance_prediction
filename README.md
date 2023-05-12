@@ -1,8 +1,8 @@
 # hydraulic_maintenance_prediction
 Maintenance prediction using machine learning model is an daunting work, it involves many people to collobrate for keep the model stable in the pipeline, especially when deployed in realtime.<br>
-This research work focus on building model that detects the abnormal working conditions of important components in the hydraulic system. The datasets particularly the sensors data used was collected a test rig hydraulics
+This research work focus on building model that detects the abnormal working conditions of important components in the hydraulic system. The datasets particularly the sensors data used was collected a test rig hydraulics<br>
 ![alt text](https://github.com/khanhvovan2002/hydraulic_maintenance_prediction/blob/main/Picture1.png)
-This work has two approaches:
+This work has two tasks:
 * Using SVM and XGBoost model, with PCA for dimension reduction and feature extraction in time domain analysis
 * Design 1D CNN network multihead-channel, with upsampling and downsampling for input data
 ![alt text](https://github.com/khanhvovan2002/hydraulic_maintenance_prediction/blob/main/Untitled.png)
